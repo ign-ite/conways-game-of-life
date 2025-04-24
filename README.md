@@ -63,7 +63,7 @@ Each cell interacts with its 8 neighbors:
 ## 🤓 About Me
 
 Made with love by Varun — a curious mind exploring AI, code, and pixels.  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/varun-kumar-88286a143/)!
 
 ---
 
